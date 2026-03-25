@@ -20,19 +20,19 @@ EC2 - Elastic Cloud Compute
  * Deploying an application on EC2 instance.
 ---------------------------------------------
 DAY4
-VPC
-PRIVATE Subnet
-PUBLIC Subnet
-IGW
-NAT
-SNAT
-Route table
-ELB
-CIDR
+* VPC
+* PRIVATE Subnet
+* PUBLIC Subnet
+* IGW
+* NAT
+* SNAT
+* Route table
+* ELB
+* CIDR
 ------------------------------------------------
 DAY5
-VPC
-Security Group
-NACL
-SG Vs NACL
-Inbound and Outbound traffic
+* VPC
+* Security Group
+* NACL
+* SG Vs NACL
+* Inbound and Outbound traffic
